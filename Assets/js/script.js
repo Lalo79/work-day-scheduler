@@ -3,7 +3,8 @@ var timeBlockContainer = $("#timeBlockContainer");
 
 $("#currentDay").text(moment().format("dddd, MMMM Do, YYYY"));
 
-var hour = 14
+var hour = moment().hour();
+// var hour = 11
 
 var tasks = {
     '09': '',
