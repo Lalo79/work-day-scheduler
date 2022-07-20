@@ -4,7 +4,7 @@ Challenge 05 - "Interactive Work day Schecduler"
 
 Work day scheduler is a simple calendar app that allows to record tasks in an 8 hour schedule. The schedule shows in different colors past, present and future timeblocks.
 
-[Work Day Scheduler Snapshot](./Assets/images/snapshot.png)
+![Work Day Scheduler Snapshot](./Assets/images/snapshot.png)
 
 Each of the buttons at the right side saves the tastks of a specific time block.
 
